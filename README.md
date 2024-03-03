@@ -1,16 +1,17 @@
-### Hi there 👋
+![Fernanda's GitHub Banner](./assets/github_option2.png)
 
-<!--
-**fernanda-miron/fernanda-miron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 🧬
 
-Here are some ideas to get you started:
+I’m Fernanda, a PhD student at [Reynold's Lab](https://www.reynoldslab.org/people), who specializes on bioinformatics analysis of omics data. Some things about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Self-proclaimed expert on doing cute graphs with R
+\
+🧬 Currently working with WGS data to better understand Mexican Populations
+\
+🌱 Currently working with epigenomic data to better understand rare diseases
+\
+🥑 Latina in science
+
+## 📌 Pinned Repositories
+
+[![nf_selection](https://github-readme-stats.vercel.app/api/pin/?username=fernanda-miron&repo=nf-selection)](https://github.com/fernanda-miron/nf-selection)
